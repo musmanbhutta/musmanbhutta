@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img src="assets/banner-light.svg" alt="Muhammad Usman Bhutta — PHP developer. Business rules, data and documents." width="1200" height="350">
+  <img src="assets/banner-light.svg" alt="Muhammad Usman Bhutta — PHP developer. Business rules, data and documents." width="1200">
 </picture>
 
 # Hi, I'm Usman.
