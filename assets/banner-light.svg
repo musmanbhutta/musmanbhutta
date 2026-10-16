@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-labelledby="title desc">
+<title id="title">Muhammad Usman Bhutta — PHP developer</title>
+<desc id="desc">Business rules, data and documents. An engineering diagram connects PHP to interfaces, SQL and documents.</desc>
+<defs><pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#b7c6b0" opacity="0.25"/></pattern></defs>
+<rect width="1200" height="350" rx="22" fill="#f5f8f4"/>
+<rect x="760" y="1" width="439" height="348" rx="22" fill="url(#dots)"/>
+<rect x="0.5" y="0.5" width="1199" height="349" rx="21.5" stroke="#d3dfd0" fill="none"/>
+<path d="M64 49h32" stroke="#42652b" stroke-width="4" stroke-linecap="round"/>
+<text x="110" y="55" fill="#586d61" font-family="Arial,Helvetica,sans-serif" font-size="17" letter-spacing="2.8">MUHAMMAD USMAN BHUTTA</text>
+<text x="60" y="166" fill="#1b2c25" font-family="Arial,Helvetica,sans-serif" font-size="86" font-weight="700" letter-spacing="-4">PHP developer.</text>
+<text x="64" y="221" fill="#586d61" font-family="Arial,Helvetica,sans-serif" font-size="27" letter-spacing="-0.3">Business rules. Data. Documents.</text>
+<path d="M64 257h612" stroke="#d3dfd0"/>
+<text x="64" y="296" fill="#42652b" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" letter-spacing="2">CORE PHP</text>
+<text x="205" y="296" fill="#586d61" font-family="Arial,Helvetica,sans-serif" font-size="15" letter-spacing="2">MYSQL</text>
+<text x="314" y="296" fill="#586d61" font-family="Arial,Helvetica,sans-serif" font-size="15" letter-spacing="2">APIS</text>
+<text x="402" y="296" fill="#586d61" font-family="Arial,Helvetica,sans-serif" font-size="15" letter-spacing="2">EXISTING SYSTEMS</text>
+<g stroke="#d3dfd0" stroke-width="2" fill="none"><path d="M888 175h61q18 0 18-18V98h25"/><path d="M888 175h104"/><path d="M888 175h61q18 0 18 18v59h25"/></g>
+<g fill="#42652b"><circle cx="947" cy="175" r="4"/><circle cx="967" cy="125" r="4"/><circle cx="967" cy="225" r="4"/></g>
+<rect x="784" y="127" width="104" height="96" rx="22" fill="#ffffff" stroke="#42652b" stroke-width="1.5"/>
+<text x="836" y="184" fill="#42652b" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="26" font-weight="700">PHP</text>
+<g font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" letter-spacing="1" text-anchor="middle"><rect x="993" y="76" width="144" height="44" rx="12" fill="#ffffff" stroke="#d3dfd0"/><text x="1065" y="103" fill="#586d61">INTERFACES</text><rect x="993" y="153" width="144" height="44" rx="12" fill="#ffffff" stroke="#d3dfd0"/><text x="1065" y="180" fill="#586d61">SQL</text><rect x="993" y="230" width="144" height="44" rx="12" fill="#ffffff" stroke="#d3dfd0"/><text x="1065" y="257" fill="#586d61">DOCUMENTS</text></g>
+</svg>

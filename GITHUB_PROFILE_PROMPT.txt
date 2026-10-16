@@ -1,0 +1,12 @@
+Design a polished GitHub profile README for Muhammad Usman Bhutta (@musmanbhutta), a PHP developer who maintains and extends existing business applications.
+
+Use an understated engineering style with dark/light SVG banners, clear typography, restrained green accents, a readable introduction, technologies grouped by use, selected engineering contributions, and prominent portfolio and CV links. Make it work within GitHub Flavored Markdown and supported HTML. Keep mobile readability and descriptive image alternatives.
+
+Use only demonstrated skills: procedural and object-oriented PHP, MySQL/SQL, JavaScript, jQuery, AJAX, HTML/CSS, JSON APIs, Git, company-scoped permissions, OTP, validation, queued DOCX/PDF generation and PhpSpreadsheet compatibility work. Laravel/Eloquent belongs in the document-workflow context. Describe specific contributions to existing systems, not ownership of entire products.
+
+Public portfolio: https://usman-bhutta-portfolio.workspace-at-6143.chatgpt.site/
+CV and cover letter: https://usman-bhutta-portfolio.workspace-at-6143.chatgpt.site/documents/index.html
+
+Do not invent years of experience, seniority, employers, outcomes, statistics or proficiency percentages. Do not publish private source, evidence, commit identities, phone numbers or personal emails. Do not add tracking counters, unrelated badges, token-dependent widgets or automated activity generation.
+
+Keep SVG assets inside assets/ and README.md at the repository root. Use the public profile repository musmanbhutta/musmanbhutta. Preserve existing useful content when editing. Explain how to update the files and validate their rendering on the actual profile.
