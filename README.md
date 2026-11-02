@@ -1,61 +1,32 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img src="assets/banner-light.svg" alt="Muhammad Usman Bhutta — PHP developer. Business rules, data and documents." width="1200">
-</picture>
-
-# Hi, I'm Usman.
-
-**PHP developer working on existing products, business systems and document workflows.**
-
-I maintain and extend applications where forms, database records, permissions and generated documents need to agree. My work spans procedural and object-oriented PHP, SQL, JSON APIs and administrative interfaces.
+<img src="assets/banner.svg" alt="Muhammad Usman Bhutta — Thoughtful by design. PHP developer at CodeLounge, Pakistan." width="1200">
 
 <p>
-  <a href="https://usman-bhutta-portfolio.workspace-at-6143.chatgpt.site/"><img src="assets/button-portfolio.svg" alt="View my portfolio" width="180" height="44"></a>
-  <a href="https://usman-bhutta-portfolio.workspace-at-6143.chatgpt.site/documents/index.html"><img src="assets/button-documents.svg" alt="View or download my CV and cover letter" width="210" height="44"></a>
+<a href="https://usman-bhutta-portfolio.workspace-at-6143.chatgpt.site/"><img src="assets/portfolio.svg" alt="Explore my portfolio" width="230" height="48"></a>
+<a href="https://usman-bhutta-portfolio.workspace-at-6143.chatgpt.site/documents/index.html"><img src="assets/cv.svg" alt="View CV and cover letter" width="245" height="48"></a>
+<a href="mailto:musmankhan7074@gmail.com"><img src="assets/email.svg" alt="Email Usman" width="160" height="48"></a>
 </p>
 
-## What I work on
+<h2>A developer who cares about how things hold together.</h2>
+<p>I’m Muhammad Usman Bhutta, a PHP developer at CodeLounge, based in Pakistan. I work on established products — turning business rules, forms, data and document workflows into useful, dependable software.</p>
 
-- **Existing PHP systems** — trace business rules, extend procedural entry points and domain classes, and make focused compatibility fixes.
-- **Data and access** — work with SQL queries, transactions, company-scoped permissions, OTP workflows and validation.
-- **APIs and interfaces** — connect JSON responses and callbacks to forms through JavaScript, jQuery and AJAX.
-- **Documents and reports** — maintain queued DOCX/PDF generation and investigate spreadsheet compatibility issues.
+<h2>My toolkit</h2>
+<table><tr><th align="left">Systems & data</th><th align="left">Interfaces & workflows</th><th align="left">Practical tools</th></tr><tr><td>Core PHP · OOP / procedural<br>MySQL · SQL</td><td>JSON APIs · JavaScript<br>jQuery · AJAX · HTML / CSS</td><td>Git · DOCX / PDF<br>PhpSpreadsheet</td></tr></table>
 
-## My toolkit
+<h2>Selected engineering work</h2>
+<h3><a href="https://usman-bhutta-portfolio.workspace-at-6143.chatgpt.site/projects/audit-platform/index.html">01 · Audit & document operations ↗</a></h3>
+<p>Form synchronization, company-scoped access, queued documents and context-aware validation.</p>
+<h3><a href="https://usman-bhutta-portfolio.workspace-at-6143.chatgpt.site/projects/document-reporting/index.html">02 · Documents & reporting ↗</a></h3>
+<p>Generation jobs, persisted processing states, after-commit dispatch and workbook compatibility.</p>
+<h3><a href="https://usman-bhutta-portfolio.workspace-at-6143.chatgpt.site/projects/verification-workflows/index.html">03 · Reviews & callbacks ↗</a></h3>
+<p>Verification-review workflows and callback handling tied to the relevant account and document.</p>
+<p><sub>Selected contributions to established products. Case studies explain my scope and approach with operational details anonymized.</sub></p>
 
-`Core PHP` · `OOP / procedural PHP` · `MySQL` · `SQL`  
-`JavaScript` · `jQuery` · `AJAX` · `HTML / CSS`  
-`JSON APIs` · `Git` · `DOCX / PDF` · `PhpSpreadsheet`
-
-I have also contributed to Laravel/Eloquent document-generation workflows. I choose changes that fit the application and its existing behavior.
-
-## Selected engineering work
-
-### [01 · Audit & document operations](https://usman-bhutta-portfolio.workspace-at-6143.chatgpt.site/projects/audit-platform/index.html)
-
-Contributions to an established PHP product: form synchronization that preserves saved answers, company-scoped permissions, queued documents and audit-specific validation.
-
-### [02 · Document generation & reporting](https://usman-bhutta-portfolio.workspace-at-6143.chatgpt.site/projects/document-reporting/index.html)
-
-Extended generation jobs with persisted processing states and after-commit dispatch. Added targeted workbook cleanup and resource release in reporting workflows.
-
-### [03 · Verification reviews & callbacks](https://usman-bhutta-portfolio.workspace-at-6143.chatgpt.site/projects/verification-workflows/index.html)
-
-Contributed to verification-review workflows and callback handling, with checks tied to the relevant account, document and integration context.
-
-These are selected contributions to existing systems. The portfolio explains my scope and technical approach through anonymized case studies.
-
+<h2>How I approach a system</h2>
+<img src="assets/approach.svg" alt="Trace the rules; connect the parts; check the outcome." width="1200">
 <details>
-<summary><strong>How I approach an existing system</strong></summary>
-
-- Trace the entry point, data flow and business rules before changing behavior.
-- Keep database state, API responses, interfaces and generated documents consistent.
-- Check access boundaries, failure paths and backward compatibility.
-- Use focused regression checks for the behavior being changed.
-
+<summary><strong>A few principles I work by</strong></summary>
+<ul><li>Understand the existing behavior before changing it.</li><li>Keep database state, API responses and generated documents consistent.</li><li>Check access boundaries, failure paths and backward compatibility.</li><li>Use focused regression checks for the behavior being changed.</li></ul>
 </details>
 
----
-
-**Want the full picture?** [Explore my portfolio](https://usman-bhutta-portfolio.workspace-at-6143.chatgpt.site/) · [View my CV](https://usman-bhutta-portfolio.workspace-at-6143.chatgpt.site/documents/index.html)
+<h2>Let’s connect</h2>
+<p><a href="mailto:musmankhan7074@gmail.com">musmankhan7074@gmail.com</a> · <a href="https://www.linkedin.com/in/musmanbhutta29/">LinkedIn</a> · <a href="https://usman-bhutta-portfolio.workspace-at-6143.chatgpt.site/">Portfolio</a><br>Phone: +92 344 2150929</p>
