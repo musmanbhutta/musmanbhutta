@@ -1,8 +1,8 @@
 <img src="assets/banner.svg" alt="Muhammad Usman Bhutta — Thoughtful by design. PHP developer at CodeLounge, Pakistan." width="1200">
 
 <p>
-<a href="https://usman-bhutta-portfolio.workspace-at-6143.chatgpt.site/"><img src="assets/portfolio.svg" alt="Explore my portfolio" width="230" height="48"></a>
-<a href="https://usman-bhutta-portfolio.workspace-at-6143.chatgpt.site/documents/index.html"><img src="assets/cv.svg" alt="View CV and cover letter" width="245" height="48"></a>
+<a href="https://usman-bhutta-portfolio.pages.dev/"><img src="assets/portfolio.svg" alt="Explore my portfolio" width="230" height="48"></a>
+<a href="https://usman-bhutta-portfolio.pages.dev/documents/index.html"><img src="assets/cv.svg" alt="View CV and cover letter" width="245" height="48"></a>
 <a href="mailto:musmankhan7074@gmail.com"><img src="assets/email.svg" alt="Email Usman" width="160" height="48"></a>
 </p>
 
@@ -13,11 +13,11 @@
 <table><tr><th align="left">Systems & data</th><th align="left">Interfaces & workflows</th><th align="left">Practical tools</th></tr><tr><td>Core PHP · OOP / procedural<br>MySQL · SQL</td><td>JSON APIs · JavaScript<br>jQuery · AJAX · HTML / CSS</td><td>Git · DOCX / PDF<br>PhpSpreadsheet</td></tr></table>
 
 <h2>Selected engineering work</h2>
-<h3><a href="https://usman-bhutta-portfolio.workspace-at-6143.chatgpt.site/projects/audit-platform/index.html">01 · Audit & document operations ↗</a></h3>
+<h3><a href="https://usman-bhutta-portfolio.pages.dev/projects/audit-platform/index.html">01 · Audit & document operations ↗</a></h3>
 <p>Form synchronization, company-scoped access, queued documents and context-aware validation.</p>
-<h3><a href="https://usman-bhutta-portfolio.workspace-at-6143.chatgpt.site/projects/document-reporting/index.html">02 · Documents & reporting ↗</a></h3>
+<h3><a href="https://usman-bhutta-portfolio.pages.dev/projects/document-reporting/index.html">02 · Documents & reporting ↗</a></h3>
 <p>Generation jobs, persisted processing states, after-commit dispatch and workbook compatibility.</p>
-<h3><a href="https://usman-bhutta-portfolio.workspace-at-6143.chatgpt.site/projects/verification-workflows/index.html">03 · Reviews & callbacks ↗</a></h3>
+<h3><a href="https://usman-bhutta-portfolio.pages.dev/projects/verification-workflows/index.html">03 · Reviews & callbacks ↗</a></h3>
 <p>Verification-review workflows and callback handling tied to the relevant account and document.</p>
 <p><sub>Selected contributions to established products. Case studies explain my scope and approach with operational details anonymized.</sub></p>
 
@@ -29,4 +29,4 @@
 </details>
 
 <h2>Let’s connect</h2>
-<p><a href="mailto:musmankhan7074@gmail.com">musmankhan7074@gmail.com</a> · <a href="https://www.linkedin.com/in/musmanbhutta29/">LinkedIn</a> · <a href="https://usman-bhutta-portfolio.workspace-at-6143.chatgpt.site/">Portfolio</a><br>Phone: +92 344 2150929</p>
+<p><a href="mailto:musmankhan7074@gmail.com">musmankhan7074@gmail.com</a> · <a href="https://www.linkedin.com/in/musmanbhutta29/">LinkedIn</a> · <a href="https://usman-bhutta-portfolio.pages.dev/">Portfolio</a><br>Phone: +92 344 2150929</p>
